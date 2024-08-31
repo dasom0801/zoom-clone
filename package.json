@@ -1,0 +1,19 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "WebRTC와 WebSocket을 활용한 zoom 클론 코딩",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.6",
+    "@babel/core": "^7.25.2",
+    "@babel/node": "^7.25.0",
+    "@babel/preset-env": "^7.25.4",
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "pug": "^3.0.3"
+  }
+}
